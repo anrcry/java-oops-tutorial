@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ \r\n\ @author\ Sayon\ Roy\r\n\ @version\ 1.0\r\n
+comment1.params=name\ email\ phone
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=index\ isRcv
+comment2.target=Package\ getPackageFromIndex(int,\ boolean)
+comment3.params=receiver\ carrier
+comment3.target=Package\ sendPackage(Customer,\ Carrier)
+numComments=4

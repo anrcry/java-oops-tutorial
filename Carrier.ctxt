@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Carrier
+comment1.params=name\ email\ phone
+comment1.target=Carrier(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=p
+comment2.target=void\ addPackage(Package)
+comment3.params=index
+comment3.target=Package\ getPackageFromIndex(int)
+comment4.params=
+comment4.target=int\ getCode()
+comment5.params=email\ emp\ users\ ref_user
+comment5.target=boolean\ exists(java.lang.String,\ int,\ User[],\ User)
+numComments=6

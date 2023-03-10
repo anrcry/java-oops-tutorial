@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Package
+comment1.params=sender\ reciever\ carrier
+comment1.target=Package(Customer,\ Customer,\ Carrier)
+comment2.params=carrierCode
+comment2.target=void\ markDelivery(int)
+comment3.params=
+comment3.target=boolean\ isDelivered()
+comment4.params=
+comment4.target=int\ getRandomID()
+numComments=5
